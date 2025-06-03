@@ -54,7 +54,7 @@ I’m passionate about solving problems at the intersection of **data and decisi
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/tejesvani-m-v-782468153/)
 - 🌐 [Portfolio](https://tejesvani.github.io/)
-- 📧 [tejesvani.mv@gmail.com](mailto:tejesvani.mv@gmail.com)
+- 📧 [mvtejesvani@gmail.com](mailto:mvtejesvani@gmail.com)
 
 ---
 
