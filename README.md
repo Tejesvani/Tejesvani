@@ -18,7 +18,7 @@
 
 I'm a Data Engineer with 3+ years of experience designing and optimizing data pipelines across finance, healthcare, and IoT domains. I build end-to-end pipelines — from raw ingestion through transformation and serving — with a focus on reliability, scalability, and high data quality.
 
-Currently a Data Engineer at **myRide**, and a graduate of the **Master's in Data Analytics Engineering program at Northeastern University** (GPA: 3.95/4.0). Previously at **LTIMindtree**, where I reduced data processing latency by 40%, migrated 50M+ records to the cloud, and built real-time dashboards serving 200+ business users.
+A graduate student with a **Master's in Data Analytics Engineering from Northeastern University**. Currently working as a Data Engineer at **myRide**. Previously at **LTIMindtree**, where I reduced data processing latency by 40%, migrated 50M+ records to the cloud, and built real-time dashboards serving 200+ business users.
 
 **What I focus on:**
 - Streaming and batch pipeline engineering (Kafka, Spark, Flink)
