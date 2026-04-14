@@ -74,15 +74,6 @@ A graduate student with a **Master's in Data Analytics Engineering from Northeas
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tejesvani&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejesvani&layout=compact&theme=tokyonight&hide_border=true" height="180" />
-</div>
-
----
-
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Tejesvani.Tejesvani" alt="Visitor Badge" />
 </p>
