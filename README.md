@@ -3,7 +3,7 @@
 <p align="center">
   <em>Data Engineer &mdash; Building Reliable Data Pipelines at Scale</em>
   <br><br>
-  Data Engineer at <strong>myRide</strong> &mdash; Open to new opportunities
+   Open to new opportunities
 </p>
 
 <p align="center">
@@ -16,14 +16,14 @@
 
 ## About Me
 
-I'm a Data Engineer with 3+ years of experience designing and optimizing data pipelines across finance, healthcare, and IoT domains. I build end-to-end pipelines — from raw ingestion through transformation and serving — with a focus on reliability, scalability, and high data quality.
+I'm a Data Engineer with about 3 years of experience designing and optimizing data pipelines across finance, healthcare, and IoT domains. I build end-to-end pipelines — from raw ingestion through transformation and serving — with a focus on high data quality.
 
-A graduate student with a **Master's in Data Analytics Engineering from Northeastern University**. Currently working as a Data Engineer at **myRide**. Previously at **LTIMindtree**, where I reduced data processing latency by 40%, migrated 50M+ records to the cloud, and built real-time dashboards serving 200+ business users.
+A graduate student with a **Master's in Data Analytics Engineering from Northeastern University, Boston MA**. 
 
 **What I focus on:**
-- Streaming and batch pipeline engineering (Kafka, Spark, Flink)
+- Streaming and batch pipeline engineering (Kafka)
 - Cloud data platform development (AWS, Azure, GCP)
-- Analytics engineering and data modeling (dbt, Snowflake, BigQuery, Databricks)
+- Analytics engineering and data modeling (dbt, Snowflake, BigQuery)
 - Workflow orchestration and DataOps (Airflow, Docker, Kubernetes, Terraform)
 
 ---
@@ -49,7 +49,6 @@ A graduate student with a **Master's in Data Analytics Engineering from Northeas
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=googlebigquery&logoColor=white)
 
 **Infrastructure & Observability**
@@ -67,10 +66,10 @@ A graduate student with a **Master's in Data Analytics Engineering from Northeas
 | Project | Stack | Highlights |
 |---|---|---|
 | **Transaction Fraud Detection** | Kafka, PostgreSQL, Docker, K8s, Grafana | Real-time fraud scoring pipeline; end-to-end containerized deployment with live monitoring |
-| **Smart City Data Streaming** | Kafka, Spark Structured Streaming, AWS S3 | Multi-source IoT event ingestion with Spark micro-batch processing to S3 data lake |
-| **Mass ED Utilization Analytics** | Snowflake, dbt, CHIA Massachusetts data | dbt-modeled analytics on Massachusetts hospital ED data; Kimball-style dimensional model |
-| **Credit Card Purchase Analytics** | Azure Databricks, ADLS, Power BI | Delta Lake pipeline + ML classification model (90% accuracy) on Azure end-to-end |
 | **Bank Marketing Prediction** | GCP, BigQuery, Airflow, Docker | GCP-native ML pipeline with Airflow orchestration and CI/CD |
+| **Mass ED Utilization Analytics** | Snowflake, dbt, CHIA Massachusetts data | dbt-modeled analytics on Massachusetts hospital ED data; Kimball-style dimensional model |
+| **Smart City Data Streaming** | Kafka, Spark Structured Streaming, AWS S3 | Multi-source IoT event ingestion with Spark micro-batch processing to S3 data lake |
+| **Credit Card Purchase Analytics** | Azure Databricks, ADLS, Power BI | Delta Lake pipeline + ML classification model (90% accuracy) on Azure end-to-end |
 
 ---
 
